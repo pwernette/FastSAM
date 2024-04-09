@@ -1,0 +1,21 @@
+name: fastsam
+channels:
+  - conda-forge
+  - defaults
+  - nvidia
+dependencies:
+  - python=3.11
+  - pillow
+  - matplotlib
+  - scipy
+  - torchmetrics
+  - pip
+  - pip:
+    - ipython
+    - opencv-python
+    - pandas
+    - tqdm
+    - seaborn
+    - evaluate
+    - chardet
+    - pyyaml
