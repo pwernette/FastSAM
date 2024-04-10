@@ -12,6 +12,7 @@ dependencies:
   - pip
   - pip:
     - ipython
+    - jupyter
     - opencv-python
     - pandas
     - tqdm

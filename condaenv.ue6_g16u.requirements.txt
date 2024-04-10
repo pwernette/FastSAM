@@ -1,8 +1,0 @@
-ipython
-opencv-python
-pandas
-tqdm
-seaborn
-evaluate
-chardet
-pyyaml
